@@ -83,7 +83,7 @@
  }
  
  function AreaDetection($lat, $lon) {
-  $area = 'En Mouvement';
+  $area = 'Moving';
   if($lat <= 50.012345 && $lat >= 50.012345 && $lon >= 3.123456 && $lon <= 3.123456) { $area = 'MyHome'; }
   return $area;
  }
