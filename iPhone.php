@@ -1,5 +1,5 @@
 <?PHP
- //iPhone.php by @TenGbps
+ //iPhone.php (Find My iPhone Client) by @TenGbps
 
  $user = 'steve@apple.com';
  $pass = 'SuPerICloudPassW000rD';
